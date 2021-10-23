@@ -1,0 +1,12 @@
+package br.com.alura.microservice.loja.service;
+
+import br.com.alura.microservice.loja.controller.dto.CompraDTO;
+
+public class CompraService {
+
+	public void realizaCompra(CompraDTO compra) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
